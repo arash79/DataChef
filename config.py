@@ -1,0 +1,5 @@
+REGION_NAME = 'eu-west-1'
+SOURCE_BUCKET_NAME = 'tha-source-bucket'
+DESTINATION_BUCKET_NAME = 'tha-destination-bucket'
+SLACK_WEBHOOK = ''
+SLACK_EMAIL = ''
